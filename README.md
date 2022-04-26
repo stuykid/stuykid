@@ -10,8 +10,8 @@
 
 
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=stuykid&show_icons=true&theme=radical" /> -->
-<!-- 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuykid" /> -->
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuykid" />
                        
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stuykid&show_icons=true&theme=radical) -->
 
