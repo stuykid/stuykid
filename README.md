@@ -1,21 +1,20 @@
 # Hi there, I'm Sheriff 👋
 
+- 🔭 I’m currently working on an ecommerce website!
+ - 🌱 I’m currently learning everything 🤣
+ - 👯 I’m looking to collaborate with other software engineers
+ - 🥅 2022 Goals: Contribute more to Open Source projects
+ - ⚡ Fun fact: I love to read and play sports
+
 <!--
 **stuykid/stuykid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=stuykid&show_icons=true&theme=radical" />
+
+
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=stuykid&show_icons=true&theme=radical" /> -->
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuykid" />
                        
@@ -35,10 +34,10 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-<!-- ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+<!-- ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
