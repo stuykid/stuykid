@@ -11,11 +11,12 @@
 
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=stuykid&show_icons=true&theme=radical" /> -->
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuykid" />
-                       
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stuykid&show_icons=true&theme=radical) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuykid)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuykid" />
+                       
 
  ### Languages and Tools:
  
@@ -32,7 +33,6 @@
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-<br />
 
 ### Connect with me:
 [<img align="left" alt="sherifflegrand | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
