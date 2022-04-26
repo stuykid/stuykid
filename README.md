@@ -1,4 +1,4 @@
-# Hi there, I'm Sheriff 👋
+# Hi there, I'm Sheriff Legrand 👋
 
 - 🔭 I’m currently working on an ecommerce website!
  - 🌱 I’m currently learning everything 🤣
@@ -6,11 +6,6 @@
  - 🥅 2022 Goals: Contribute more to Open Source projects
  - ⚡ Fun fact: I love to read and play sports
 
-<!--
-**stuykid/stuykid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 
 
@@ -22,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuykid)](https://github.com/anuraghazra/github-readme-stats)
  -->
- 
+ ### Languages and Tools:
  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,6 +31,17 @@ Here are some ideas to get you started:
 
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+
+<br />
+
+### Connect with me:
+[<img align="left" alt="sherifflegrand | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="bklyn_sha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+[instagram]: https://instagram.com/bklyn_sha
+[linkedin]: https://linkedin.com/in/sheriff-legrand
 
 <!-- ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
