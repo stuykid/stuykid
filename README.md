@@ -41,7 +41,7 @@
 <br />
 
 [instagram]: https://instagram.com/bklyn_sha
-[linkedin]: https://linkedin.com/in/sheriff-legrand
+[linkedin]: https://linkedin.com/in/sherifflegrand
 
 <!-- ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
