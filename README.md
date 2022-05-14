@@ -40,7 +40,6 @@
 [<img align="left" alt="sherifflegrand | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bklyn_sha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 
 [instagram]: https://instagram.com/bklyn_sha
 [linkedin]: https://linkedin.com/in/sherifflegrand
