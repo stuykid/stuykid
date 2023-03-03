@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on an ecommerce website!
  - 🌱 I’m currently learning everything 🤣
  - 👯 I’m looking to collaborate with other software engineers
- - 🥅 2022 Goals: Contribute more to Open Source projects
+ - 🥅 2023 Goals: Contribute more to Open Source projects
  - ⚡ Fun fact: I love to read and play sports
 
 
